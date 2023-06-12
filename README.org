@@ -1,0 +1,10 @@
+* ernestine
+
+Ernestine is a music management application in McClim.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/nlamirault/ernestine.git   |
+| commit  | a3a12f6  |
+| systems | ernestine |
+|---------+-------------------------------------------|
+
